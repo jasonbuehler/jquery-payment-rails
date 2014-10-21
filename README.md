@@ -6,15 +6,11 @@ This gem integrates [jQuery.payment](https://github.com/stripe/jquery.payment) p
 
 Add this line to your application's Gemfile:
 
-    gem 'jquery-payment-rails'
+    gem 'jquery-payment-rails', :git => 'git://github.com/jasonbuehler/jquery-payment-rails.git'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install jquery-payment-rails
 
 ## Usage
 
